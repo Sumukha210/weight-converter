@@ -22,6 +22,7 @@ class _MyAppState extends State<MyApp> {
         backgroundColor: Colors.grey[850],
         appBar: AppBar(
           backgroundColor: Colors.grey[900],
+          brightness: Brightness.dark,
           toolbarHeight: 80,
           centerTitle: true,
           title: Text(
